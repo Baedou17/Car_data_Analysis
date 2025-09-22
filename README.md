@@ -45,6 +45,12 @@ Some of the query languages to retrieve records are displayed here
 
 ```SQL
 ```
-
 ## Visualization
-### Pivot Charts
+### Pivot Table
+<img width="1324" height="589" alt="Car Folio" src="https://github.com/user-attachments/assets/bbcb188e-283b-4c87-8e9e-7ea0d7a1ab22" />
+
+### Charts
+<img width="1194" height="484" alt="chart car" src="https://github.com/user-attachments/assets/2dd67b88-0abf-493b-b423-e42beab5148e" />
+
+
+
