@@ -29,4 +29,22 @@ Car_id|	Date	|Customer Name	|Gender	|Annual Income	|Dealer_Name	|Company	|Model	
 |C_CND_000004	|1/2/2022|	Giselle|	Male|	13500	|Chrysler of Tri-Cities	|Toyota	Celica|	Overhead |Camshaft	|Manual	|Pale White|	14000|	99301-3882	|SUV|	6257557	|Pasco|	2022|
 |C_CND_000005	|1/2/2022	|Grace	|Male|	1465000	|Chrysler Plymouth	|Acura	|TL	|DoubleÃ‚Â Overhead Camshaft	|Auto|	Red|	24500|	53546-9427	|Hatchback	|7081483	|Janesville	|2022|
 
+## Query Language (SQL):
+Some of the query languages to retrieve records are displayed here
+```SQL
+```
 
+```SQL
+```
+
+```SQL
+```
+
+```SQL
+```
+
+```SQL
+```
+
+## Visualization
+### Pivot Charts
