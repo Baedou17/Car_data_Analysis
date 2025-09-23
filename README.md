@@ -32,19 +32,11 @@ Car_id|	Date	|Customer Name	|Gender	|Annual Income	|Dealer_Name	|Company	|Model	
 ## Query Language (SQL):
 Some of the query languages to retrieve records are displayed here
 ```SQL
+SELECT count (gender), transmittor FROM car_dataset
+GROUP BY gender 
 ```
 
-```SQL
-```
 
-```SQL
-```
-
-```SQL
-```
-
-```SQL
-```
 ## Visualization
 ### Pivot Table
 <img width="1324" height="589" alt="Car Folio" src="https://github.com/user-attachments/assets/bbcb188e-283b-4c87-8e9e-7ea0d7a1ab22" />
